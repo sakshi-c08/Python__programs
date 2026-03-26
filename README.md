@@ -1,9 +1,24 @@
-# Python Programs
+Python Programs
 
-This repository contains my daily Python practice programs.
+This repository contains my daily Python practice programs as I learn and improve my coding skills step by step.
 
-## Day-1
-- Basic Python programs
-- Covers input/output, loops, conditions
+📂 Structure
+Programs are organized day-wise:
+- Day-1
+- Day-2
+- Day-3
+- ...
 
-More days will be added soon.
+Each folder contains:
+- Python programs
+- A separate README explaining the programs
+
+📌 Note
+Some files may contain multiple programs.
+Please run one program at a time by commenting the others.
+
+🎯 Goal
+To build strong problem-solving skills and improve Python programming.
+
+
+🚀 This repository will be updated regularly with new practice programs.
